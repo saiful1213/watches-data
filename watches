@@ -1,0 +1,19 @@
+{
+   "watches": [
+     {
+       "id": 1,
+       "price": 500,
+       "brand": "Rolex"
+     },
+     {
+       "id": 2,
+       "price": 200,
+       "brand": "Omega"
+     },
+     {
+       "id": 3,
+       "price": 400,
+       "brand": "Tag Heuer"
+     }
+   ]
+ }
